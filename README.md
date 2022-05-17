@@ -1,5 +1,5 @@
 # Git101Test
-##Git
+## Git
 This is my git test.
 Git is so easy!
 - SVN
